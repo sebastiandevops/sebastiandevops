@@ -1,1 +1,1 @@
-# Fullstack Software develover
+# Fullstack Software Develover
