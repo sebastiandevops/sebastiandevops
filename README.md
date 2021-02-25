@@ -13,6 +13,8 @@ Goal-oriented full-stack developer with high capacity for self-management and pr
 
 <!-- display the social media buttons in your README -->
 
+## Follow me
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
