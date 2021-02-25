@@ -13,13 +13,13 @@ Goal-oriented full-stack developer with high capacity for self-management and pr
 
 <!-- display the social media buttons in your README -->
 
-# Find me around the web:
+## Find me around the web:
 
-<p align="center">
-  [![alt text][1.1]][1]
-  [![alt text][2.1]][2]
-  [![alt text][3.1]][3]
-</p>
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
