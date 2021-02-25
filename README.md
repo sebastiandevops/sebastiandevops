@@ -16,10 +16,10 @@ Goal-oriented full-stack developer with high capacity for self-management and pr
 # Find me around the web:
 
 <p align="center">
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
+  [![alt text][1.1]][1]
+  [![alt text][2.1]][2]
+  [![alt text][3.1]][3]
+</p>
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -37,7 +37,7 @@ Goal-oriented full-stack developer with high capacity for self-management and pr
 [2]: https://twitter.com/ajinomano
 [3]: https://sebasvalencia726.medium.com/
 
-</p>
+
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
