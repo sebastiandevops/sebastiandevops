@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/63010971/105785932-091c4b80-5f4a-11eb-9bd3-4a89165f9631.png)
-
-Goal-oriented full-stack developer with high capacity for self-management and problem solving. I consider my efficiency to be one of my greatest strengths, which makes me ideal for meeting objectives in short periods of time. I am looking for my first job as a developer, however my professional experience allows me to contribute to the company from various perspectives.  
+Programador full-stack. Actualmente me desempeño como ingeniero DevSecOps y me encuentro trabajando en la migración de aplicaciones a la nube de AWS en el proyecto neón de Bancolombia. 
 
 <a href="https://github.com/sebasvalencia726">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sebasvalencia726&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
