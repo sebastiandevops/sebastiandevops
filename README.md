@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/63010971/105785932-091c4b80-5f4a-11eb-9bd3-4a89165f9631.png)
+
 Programador full-stack. Actualmente me desempeño como ingeniero DevSecOps y me encuentro trabajando en la migración de aplicaciones a la nube de AWS en el proyecto neón de Bancolombia. 
 
 <a href="https://github.com/sebasvalencia726">
