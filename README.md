@@ -5,9 +5,10 @@ Programador full-stack. Actualmente me desempeño como ingeniero DevSecOps y me 
 <a href="https://github.com/sebasvalencia726">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sebasvalencia726&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<a href="https://github.com/sebasvalencia726">
+<!-- <a href="https://github.com/sebasvalencia726">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&layout=compact&theme=radical" />
-</a>
+</a> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
