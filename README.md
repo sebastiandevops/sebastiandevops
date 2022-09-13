@@ -8,9 +8,8 @@ Programador full-stack. Actualmente me desempeño como ingeniero DevSecOps y me 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&layout=compact&theme=radical" />
 </a> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebasvalencia726&repo=github-readme-stats)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&hide=css,html&layout=compact)]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
