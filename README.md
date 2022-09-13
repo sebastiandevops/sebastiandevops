@@ -9,7 +9,7 @@ Continuous integration and distribution of software. Processes, tools and method
 </a> -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&hide=css,html&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&hide=css,html&langs_count=8&layout=compact)]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
