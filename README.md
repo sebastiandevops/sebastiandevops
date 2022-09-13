@@ -2,6 +2,8 @@
 
 Programador full-stack. Actualmente me desempeño como ingeniero DevSecOps y me encuentro trabajando en la migración de aplicaciones a la nube de AWS en el proyecto neón de Bancolombia. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+
 <!-- <a href="https://github.com/sebasvalencia726">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&layout=compact&theme=radical" />
 </a> -->
