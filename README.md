@@ -2,16 +2,13 @@
 
 Programador full-stack. Actualmente me desempeño como ingeniero DevSecOps y me encuentro trabajando en la migración de aplicaciones a la nube de AWS en el proyecto neón de Bancolombia. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasvalencia726&show_icons=true&theme=gruvbox)
 
 <!-- <a href="https://github.com/sebasvalencia726">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&layout=compact&theme=radical" />
 </a> -->
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebasvalencia726&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726)]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
