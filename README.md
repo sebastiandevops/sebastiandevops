@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63010971/184237672-d7b36fce-a059-49a4-b531-9944df7615cb.png)
 
-Programador full-stack. Actualmente me desempeño como ingeniero DevSecOps y me encuentro trabajando en la migración de aplicaciones a la nube de AWS en el proyecto neón de Bancolombia. 
+Continuous integration and distribution of software. Processes, tools and methodologies set up to balance the needs throughout the software development life cycle, from programming and implementation to maintenance and updates.
 
 ![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasvalencia726&show_icons=true&theme=gruvbox)
 
