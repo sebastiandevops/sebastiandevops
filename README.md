@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/63010971/184237672-d7b36fce-a059-49a4-b531-9944df7615cb.png)
+![image](https://user-images.githubusercontent.com/63010971/200120130-bb00e72a-0d50-4d02-9fe7-745c8b330728.png)
 
 Continuous integration and distribution of software. Processes, tools and methodologies set up to balance the needs throughout the software development life cycle, from programming and implementation to maintenance and updates.
 
