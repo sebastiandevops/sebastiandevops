@@ -2,14 +2,14 @@
 
 Continuous integration and distribution of software. Processes, tools and methodologies set up to balance the needs throughout the software development life cycle, from programming and implementation to maintenance and updates.
 
-![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiandevops&show_icons=true&theme=gruvbox)
+![Sebastián's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sebastiandevops&show_icons=true&theme=gruvbox)
 
 <!-- <a href="https://github.com/sebasvalencia726">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasvalencia726&layout=compact&theme=radical" />
 </a> -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiandevops&hide=css,html&langs_count=10&layout=compact)]
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sebastiandevops&hide=css,html&langs_count=10&layout=compact)]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
