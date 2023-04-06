@@ -18,7 +18,7 @@ Continuous integration and distribution of software. Processes, tools and method
 ## Find me around the web:
 
 
-|[![alt text][1.1]][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[![alt text][2.1]][2]
+[![alt text][1.1]][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alt text][2.1]][2]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
