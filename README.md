@@ -20,24 +20,20 @@ Continuous integration and distribution of software. Processes, tools and method
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
 <!-- icons with padding -->
 
-[1.1]: https://user-images.githubusercontent.com/63010971/109231402-87138280-7794-11eb-9fa5-dcc69e5b9624.png (linkedin)
-[2.1]: https://user-images.githubusercontent.com/63010971/109231440-9d214300-7794-11eb-99d9-f3579f59a758.png (twitter)
-[3.1]: https://user-images.githubusercontent.com/63010971/109231470-aad6c880-7794-11eb-9bf0-5ce79dd6cd1b.png (medium)
+[1.1]: https://user-images.githubusercontent.com/63010971/230437492-ad684c6a-4030-441c-ad65-038e6667005d.svg (linkedin)
+[2.1]: https://user-images.githubusercontent.com/63010971/230436993-a0c45ac1-f92e-4cca-a929-cd42c80ab95d.svg (twitter)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
 [1]: https://www.linkedin.com/in/sebastianvalenciasierra/
 [2]: https://twitter.com/ajinomano
-[3]: https://sebasvalencia726.medium.com/
 
 
 
