@@ -25,8 +25,8 @@ Continuous integration and distribution of software. Processes, tools and method
 
 <!-- icons with padding -->
 
-[1.1]: https://user-images.githubusercontent.com/63010971/230437492-ad684c6a-4030-441c-ad65-038e6667005d.svg (linkedin)
-[2.1]: https://user-images.githubusercontent.com/63010971/230436993-a0c45ac1-f92e-4cca-a929-cd42c80ab95d.svg (twitter)
+[1.1]: https://user-images.githubusercontent.com/63010971/230439534-7e9b65e3-aeca-4532-bce9-aa065e2d9008.png (linkedin)
+[2.1]: https://user-images.githubusercontent.com/63010971/230439864-373a555a-ed8f-4972-95b7-11382772afca.png (twitter)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
