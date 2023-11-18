@@ -66,7 +66,7 @@
  <img align="right" width="350" src="/assets/front_page.png" alt="Front page" />
 
  ✌️ &emsp; Continuous integration and distribution of software. Processes, tools and methodologies set up to balance the needs throughout the software development life cycle, from programming and implementation to maintenance and updates. <br/><br/>
- ❤️ &emsp; Love to writing code and learning new technologies <br/><br/>
+ ❤️ &emsp; Love to writing code to configure all the tools that I use and listening to podcasts<br/><br/>
  📧 &emsp; Reach me anytime: sebasvalencia726@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/sebastiandevops/sebastiandevops/issues)
 
