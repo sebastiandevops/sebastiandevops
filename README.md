@@ -103,7 +103,7 @@
 
 ## Top Open Source -
 [![Chilivim](https://github-readme-stats.vercel.app/api/pin/?username=sebastiandevops&repo=chilivim&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sebastiandevops/chilivim)
-[![Tweepy Bot](https://github-readme-stats.vercel.app/api/pin/?username=sebastiandevops&repo=tweepy_bot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sebastiandevops/al-folio)
+[![Tweepy Bot](https://github-readme-stats.vercel.app/api/pin/?username=sebastiandevops&repo=tweepy_bot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sebastiandevops/tweepy_bot)
 <!-- [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=sebastiandevops&repo=sebastiandevops&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sebastiandevops/sebastiandevops) -->
 <!-- [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=sebastiandevops&repo=sebastiandevops.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sebastiandevops/sebastiandevops.github.io) -->
 
