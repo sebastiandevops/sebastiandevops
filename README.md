@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/018be7af-c277-42d4-bb3a-96275359fa05.svg)](https://wakatime.com/@sebastiandevops)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -66,7 +66,7 @@
  <img align="right" width="350" src="/assets/animated_gif.gif" alt="Front page" />
 
  ✌️ &emsp; Continuous integration and distribution of software. Processes, tools and methodologies set up to balance the needs throughout the software development life cycle, from programming and implementation to maintenance and updates. <br/><br/>
- ❤️ &emsp; Love to writing code to configure all the tools that I use and listening to podcasts<br/><br/>
+ ❤️ &emsp; Love writing code to configure all the tools that I use and listening to podcasts<br/><br/>
  📧 &emsp; Reach me anytime: sebasvalencia726@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/sebastiandevops/sebastiandevops/issues)
 
