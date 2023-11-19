@@ -63,7 +63,7 @@
  # About me
 
 <p>
- <img align="right" width="350" src="/assets/animated_gif.png" alt="Front page" />
+ <img align="right" width="350" src="/assets/animated_gif.gif" alt="Front page" />
 
  ✌️ &emsp; Continuous integration and distribution of software. Processes, tools and methodologies set up to balance the needs throughout the software development life cycle, from programming and implementation to maintenance and updates. <br/><br/>
  ❤️ &emsp; Love to writing code to configure all the tools that I use and listening to podcasts<br/><br/>
