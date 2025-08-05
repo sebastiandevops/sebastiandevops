@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Sebastián+Valencia+Sierra">「 Google Me 」</a>
     <br>
-    「 I am a DevOps/SRE engineer from <b>Colombia</b> 」
+    「 I am a DevOps Engineer from <b>Colombia</b> 」
     <br>
     <br>
   </samp>
